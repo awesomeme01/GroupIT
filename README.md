@@ -1,0 +1,2 @@
+# GroupIT
+Aidana, Astik, Shabdan
